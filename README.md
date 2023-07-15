@@ -1,4 +1,4 @@
-# Interactive Attractive Dots
+# Interactive Dots
 
 Interactive Dots is a Python program that allows you to create dots on the screen by clicking and observe their interactions based on gravitational-like forces. You can click and hold the mouse button to create a dot, and the longer you hold, the bigger the dot becomes. The dots will then move and interact with each other, simulating an attractive force similar to gravity.
 
