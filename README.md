@@ -14,7 +14,7 @@ Interactive Dots is a Python program that allows you to create dots on the scree
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/interactive-dots.git
+git clone https://github.com/GuillBla/Attractive-Dots.git
 cd interactive-dots
 ```
 
